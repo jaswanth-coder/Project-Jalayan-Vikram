@@ -7,9 +7,9 @@ A resilient robot designed for disaster relief swiftly delivers vital medical su
 
 
 
-# Project Planing 
+# Project Planning 
 ------------------------------
-## Planing Step by Step 
+## Planning Step by Step 
 
 
 Developing a flood rescue robot prototype in two months is an ambitious goal, but with careful planning and efficient execution, it's possible. Here's a step-by-step guide to help you achieve this within your timeframe:

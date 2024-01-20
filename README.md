@@ -3,7 +3,8 @@
 About :
 A resilient robot designed for disaster relief swiftly delivers vital medical supplies, food, and water to people in flood and disaster-stricken areas. With its advanced mobility and cargo capacity, the robot ensures timely assistance, addressing critical needs and enhancing efficiency in emergency response efforts.
 
-![image](https://github.com/jaswanth-coder/Flood_robo/assets/75730218/200499f5-68ad-439a-abbc-e8232646ff79)
+
+![image](https://github.com/jaswanth-coder/Flood_robo/blob/main/images_for_inspiration/_01835d25-175e-4da7-b240-98a2b4ba224e.jpeg)
 
 
 

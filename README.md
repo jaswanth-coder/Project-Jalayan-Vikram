@@ -6,7 +6,7 @@ A resilient robot designed for disaster relief swiftly delivers vital medical su
 
 ![image](https://github.com/jaswanth-coder/Flood_robo/blob/main/images_for_inspiration/_01835d25-175e-4da7-b240-98a2b4ba224e.jpeg)
 ![image](https://github.com/jaswanth-coder/Flood_robo/blob/main/images_for_inspiration/_3b91ecc3-8196-461c-baf3-d52ce558641d.jpeg)
-
+![image](https://github.com/jaswanth-coder/Flood_robo/blob/main/Designs/Amphi_bot_v1_sketch.jpeg)
 
 # Project Planning 
 ------------------------------

@@ -2,6 +2,8 @@ This file is for cad mmodels . and designs
 
 Based on different videos and resources what we have observed is for  machine development . 
 
+the rotators are called screw pontoons
+
 while going forward or backward on land/terrain 
 considering the 4 wheeled screw wheels 
 1. from one side like consider car front and back wheels , 
@@ -9,4 +11,8 @@ considering the 4 wheeled screw wheels
     to go left ==> right side screw wheel has to rotate
     to go right ==> left side screw wheel has to rotate
 
-2. 
+2. In water , 
+    They are going in a path using these 4 rotational helix screws .
+    motion which was observed is two front screws rotate in opposite directions 
+    and backward motors also opposite to front ones in the body build. But i guess they are also moving in the same direction as well as front motors. 
+ 

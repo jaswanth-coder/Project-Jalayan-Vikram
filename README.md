@@ -15,54 +15,52 @@ A resilient robot designed for disaster relief swiftly delivers vital medical su
 
 Developing a flood rescue robot prototype in two months is an ambitious goal, but with careful planning and efficient execution, it's possible. Here's a step-by-step guide to help you achieve this within your timeframe:
 
-### Month 1: Planning and Initial Development
+*Timeline: Developing a Flood Rescue Robot Prototype*
 
-#### Week 1-2: Define Requirements and Research
-1. **Define Requirements:**
-   - Clearly outline the specifications and requirements for your flood rescue robot. Identify the key features, payload capacity, and communication range.
+Week 1: Planning and Initial Development
+1. *Define Requirements:*
+   - Outline specifications, payload capacity, and communication range.
+2. *Research:*
+   - Investigate existing technologies and similar projects.
 
-2. **Research:**
-   - Investigate existing technologies, components, and simulators. Learn about similar projects and understand the challenges they faced.
+Week 1: Component Selection, Design, and Software Setup
+3. *Select Components:*
+   - Choose hardware components considering water resistance.
+4. *Chassis Design:*
+   - Create a preliminary design for the robot's chassis.
+5. *Software Development Setup:*
+   - Set up the development environment and choose programming language.
+6. *Simulator Selection and Setup:*
+   - Choose a simulator and start simple simulations.
 
-#### Week 3-4: Component Selection and Design
-3. **Select Components:**
-   - Choose the hardware components such as motors, sensors, microcontrollers, communication modules, and power sources. Consider the environmental conditions, especially water resistance.
+Week 2: Prototyping and Basic Testing
+7. *Build Prototype:*
+   - Assemble the robot prototype based on chosen components.
+8. *Basic Navigation and Control:*
+   - Develop basic software for controlling movements and test in the simulator.
 
-4. **Chassis Design:**
-   - Create a preliminary design for the robot's chassis, taking into account the chosen components and payload requirements.
+Week 3: Advanced Features, Payload Delivery, and Comprehensive Testing
+9. *Add Advanced Features:*
+   - Implement obstacle avoidance, GPS navigation, and communication.
+10. *Payload Delivery Mechanism:*
+    - Integrate the mechanism for delivering supplies and test.
+11. *Comprehensive Testing:*
+    - Conduct extensive testing in simulated flood conditions.
 
-#### Week 5-6: Software and Simulation Setup
-5. **Software Development Setup:**
-   - Set up the development environment, choose the programming language, and install necessary software tools.
+Week 4: Documentation and Presentation
+12. *Documentation:*
+    - Document design, components, code, and testing procedures.
+13. *Prepare Presentation:*
+    - Create a compelling presentation highlighting features and benefits.
+14. *Iterate and Optimize:*
+    - Address identified issues, optimize performance, and make improvements.
 
-6. **Simulator Selection and Setup:**
-   - Choose a simulator (e.g., Gazebo) and set it up for your robot. Start simple simulations to ensure compatibility and understand the basics.
+Week 4 : Final Refinements
+15. *Final Testing:*
+    - Conduct a final round of testing to ensure all improvements are effective.
+16. *Documentation Review:*
+    - Review and finalize all documentation for submission.
+17. *Prepare for Presentation:*
+    - Practice the presentation and ensure clarity.
 
-### Month 2: Prototyping and Testing
-
-#### Week 1-2: Prototyping
-7. **Build Prototype:**
-   - Assemble the robot prototype based on the chosen components and chassis design. Ensure that the hardware fits together and functions properly.
-
-8. **Basic Navigation and Control:**
-   - Develop basic software for controlling the robot's movements and test it in the simulator. Ensure that the robot can navigate in a controlled environment.
-
-#### Week 3-4: Advanced Features and Testing
-9. **Add Advanced Features:**
-   - Implement advanced features such as obstacle avoidance, GPS navigation, and communication with the central control system.
-
-10. **Payload Delivery Mechanism:**
-    - Integrate the mechanism for delivering water, food, and medical packages. Test the payload delivery system.
-
-11. **Comprehensive Testing:**
-    - Conduct extensive testing in simulated flood conditions. Test the robot's performance, reliability, and safety features.
-
-#### Final Week: Documentation and Presentation
-12. **Documentation:**
-    - Document the design, components, code, and testing procedures. Prepare detailed documentation that can be presented to judges or competition organizers.
-
-13. **Prepare Presentation:**
-    - Create a compelling presentation highlighting the features, capabilities, and benefits of your flood rescue robot. Practice your presentation to ensure clarity and coherence.
-
-14. **Iterate and Optimize:**
-    - Use the final week to address any issues identified during testing. Optimize the robot's performance and make any necessary improvements.
+This one-month plan provides a structured timeline for each phase of the Flood Rescue Robot development, ensuring a systematic approach from planning to final refinements.

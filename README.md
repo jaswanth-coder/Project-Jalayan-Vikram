@@ -69,7 +69,8 @@ In the `flood_robot` directory, create two Python files: `move_robot.py` and `ob
 
 #### `obstacle_detection.py`
 
-
+### Human_detection
+this folder contains the object detection model file and dataset related details .
 
 ### 4. Create a Launch File
 

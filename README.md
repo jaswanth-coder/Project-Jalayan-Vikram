@@ -15,8 +15,7 @@
 
 Natural disasters like floods often make it difficult to reach affected areas. The **Flood Robo** aims to bridge this gap by efficiently navigating through challenging environments and delivering much-needed supplies to those in need. The robot enhances emergency response efforts, saving lives and reducing human effort in disaster zones.
 
-![Flood Robo](https://github.com/jaswanth-coder/Flood_robo/blob/main/images_for_inspiration/_01835d25-175e-4da7-b240-98a2b4ba224e.jpeg)
-![Flood Robo](https://github.com/jaswanth-coder/Flood_robo/blob/main/images_for_inspiration/_3b91ecc3-8196-461c-baf3-d52ce558641d.jpeg)
+
 
 ## Key Components
 
@@ -38,6 +37,9 @@ The project follows a structured development process, focusing on each phase of 
 ## Documentation
 
 All project details, from the design phase to testing and deployment, are thoroughly documented to provide clarity on the development process. This includes design blueprints, component lists, and the software code repository.
+
+![1511403264201](https://github.com/user-attachments/assets/c60e71ab-7a46-4d76-a673-4c047bad1bdb)
+Circuit diagram
 
 ## Contribution
 

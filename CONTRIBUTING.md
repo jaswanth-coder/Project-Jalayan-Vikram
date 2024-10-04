@@ -1,7 +1,3 @@
-Here’s a simple yet effective **CONTRIBUTING.md** file for your project, listing the guidelines and providing an introduction for contributors.
-
----
-
 # Contributing to Jalayan Vikram Robot
 
 Thank you for your interest in contributing to the **Jalayan Vikram Robot** project! We welcome all contributions that will help improve this autonomous amphibious robot for disaster relief. Whether you’re fixing bugs, improving documentation, or proposing new features, we appreciate your efforts.

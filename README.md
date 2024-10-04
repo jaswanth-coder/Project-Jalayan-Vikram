@@ -114,6 +114,8 @@ You can test the robot’s behavior in a simulated environment using **Gazebo**.
 
 **Jalayan Vikram Robot** is an ideal beginner project that introduces you to core robotics concepts such as autonomous navigation, obstacle detection, and sensor integration using **ROS2**. Its application in post-flood relief scenarios demonstrates the real-world utility of robotics in disaster management. As you continue to develop the project, consider incorporating more advanced AI algorithms for better performance.
 
+
+Special Thanks to https://www.pcbway.com/project/shareproject/3D_Printed_Screw_propelled_Robot_With_Video_Feed_8bf6a5c6.html
 Contributions are welcome. Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) for more details.
 
 ---
